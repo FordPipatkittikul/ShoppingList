@@ -23,3 +23,8 @@
 6) start our application by using uvicorn
 
        uvicorn main:app --reload
+
+
+## tech stack
+- frontend : HTML, CSS and Javascript
+- backend :  python, fastapi framework and pydantic library for data validation
