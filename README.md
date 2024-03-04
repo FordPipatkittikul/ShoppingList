@@ -9,7 +9,7 @@
 
        git clone <web URL>
     
-3) You need to install virtual environment first if you do not have one. But If you already have virtual environment, you need to skip this step
+3) You need to install virtual environment first if you do not have one. But If you already have virtual environment, skip this step
     
        python -m venv venv
 
